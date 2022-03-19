@@ -4,5 +4,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eryisan&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="Anurag's github stats" />
 </a> | 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryisan&hide=ruby&layout=compact&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryisan&hide=ruby&layout=compact&theme=dracula" />
 </a>
