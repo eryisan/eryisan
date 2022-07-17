@@ -1,9 +1,6 @@
-Y.
+[My Blog](https://eryisan.deno.dev/)
 
 **关于我 / About me**
-- 💼 ...
-
-- 📈 ...
 
 - ❤️ ...
 
