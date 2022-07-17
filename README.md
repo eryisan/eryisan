@@ -1,13 +1,13 @@
 Y.
 
 **关于我 / About me**
-- 💼 undefined
+- 💼 ...
 
-- 📈 undefined
+- 📈 ...
 
-- ❤️ undefined
+- ❤️ ...
 
-- 💬 undefined
+- 💬 ...
 
 
 
